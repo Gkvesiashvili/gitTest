@@ -1,2 +1,2 @@
 # gitTest
-testing GIT
+testing GIT !
